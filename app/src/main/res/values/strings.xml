@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kaspi</string>
+    <string name="title">Клиенту Kaspi</string>
+    <string name="roll">Roll</string>
+    <string name="kaspi_gold">Kaspi Gold</string>
+    <string name="red_card">Kaspi Red</string>
+    <string name="credit">Покупки в рассрочку 0%</string>
+</resources>
